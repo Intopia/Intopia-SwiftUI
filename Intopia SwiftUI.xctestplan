@@ -1,0 +1,29 @@
+{
+  "configurations" : [
+    {
+      "id" : "67F090BD-927C-4AAD-A671-49E6751D2E64",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:Intopia SwiftUI.xcodeproj",
+      "identifier" : "61C5E20B2C45EE9B0066A920",
+      "name" : "Intopia SwiftUI"
+    }
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:Intopia SwiftUI.xcodeproj",
+        "identifier" : "61C5E2252C45EE9F0066A920",
+        "name" : "Intopia SwiftUIUITests"
+      }
+    }
+  ],
+  "version" : 1
+}
