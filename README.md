@@ -8,4 +8,4 @@ This course was co-designed with CommBank.
 
 [Visit the CommBank website](https://www.commbank.com.au/ )
 
-![CommBank Logo](commonwealth-bank.svg)
+![CommBank Logo](commonwealth-bank.png)
