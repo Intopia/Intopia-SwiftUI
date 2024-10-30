@@ -1,6 +1,6 @@
 # Intopia-SwitftUI
 
-This is the demo repository for the `Developing for mobile accessibility - iOS` course.
+This is the demo repository for the **Developing for mobile accessibility - iOS** course.
 
 Find out more about the course at [Intopia Learn](https://learn.intopia.digital/).
 
